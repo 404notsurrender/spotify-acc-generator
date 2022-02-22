@@ -57,7 +57,7 @@ if __name__ == "__main__":
     file = open(args.output, "a") if args.output else sys.stdout
 
     print("Generating accounts in the following format:", file=sys.stdout)
-    print("NICKNAME:USERNAME:EMAIL:PASSWORD\n", file=sys.stdout)
+    print("EMAIL:PASSWORD\n", file=sys.stdout)
     for i in range(N):
         result = generate()
         if result[0]:

@@ -25,7 +25,7 @@ def generate():
     payload = {"creation_point": "client_mobile",
             "gender": "male" if random.randint(0, 1) else "female",
             "birth_year": random.randint(1990, 2000),
-            "displayname": nick,
+            "displayname": "Premium Terus",
             "iagree": "true",
             "birth_month": random.randint(1, 11),
             "password_repeat": passw,

@@ -3,9 +3,9 @@ This Python3 script instantly generates new free Spotify accounts (with random c
 # HOW TO RUN
 ### TERMUX
 ```bash
-git clone https://github.com/404notsurrender/spotify-acc-generator <br />
-cd spotify-acc-generator <br />
-python run.py <br />
+git clone https://github.com/404notsurrender/spotify-acc-generator 
+cd spotify-acc-generator 
+python run.py 
 ```
 # Requirements
 requests module: pip install requests

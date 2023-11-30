@@ -7,6 +7,19 @@ cd spotify-acc-generator <br />
 python run.py <br />
 # Requirements
 requests module: pip install requests
-# Donate 
+### Donate
 If you want to support my developments you are welcome to offer me a ciggarettes 🚬
+<div align="left">
+            <a href="https://paypal.me/dafazulfikar" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
+                    align="left"
+                />
+            </a>
+            <a href="https://www.buymeacoffee.com/404notsurrender" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="left"
+                />
+            </a></div>
 https://saweria.co/german0c3an

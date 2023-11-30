@@ -8,7 +8,9 @@ cd spotify-acc-generator
 python run.py 
 ```
 # Requirements
+```bash
 requests module: pip install requests
+```
 ### Donate
 If you want to support my developments you are welcome to offer me a ciggarettes 🚬
 <div align="left">
